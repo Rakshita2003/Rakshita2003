@@ -1,4 +1,5 @@
-[![MasterHead](https://ecdn.teacherspayteachers.com/thumbitem/Google-Classroom-GIF-Banners-4850361-1657590505/original-4850361-1.jpg)](https://rakshita2003.io)
+<img align="center" width="100%" src="https://camo.githubusercontent.com/8942c7474f768958c0aace3fa7a387edd7601b0a6904645271260450292cc66a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d266175746f266865696768743d3330302673656374696f6e3d68656164657226746578743d476c6164253230796f75253230666f756e642532306d65253230686572652126666f6e7453697a653d3530">
+
 <h1 align="center">Hi 👋, I'm Rakshita Gowda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
