@@ -28,7 +28,7 @@
 </p> -->
 
 <p>
-<a href="https://www.linkedin.com/in/rakshita-gowda-4191861b2" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> 
+<a href="[https://www.linkedin.com/in/rakshita-gowda-4191861b2](https://www.linkedin.com/in/rakshita-gowda-277477239)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> 
 <a href="http://www.gmail.com/" target="blank"><img align="center" src="https://img.shields.io/badge/rakshitagowda22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a>
 </p>
 
