@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi, I'm Rakshita Gowda 👋</h1>
 <h3 align="center">A Passionate Tech Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Error!" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshita2003&label=Profile%20views&color=0e75b6&style=flat" alt="rakshita2003" /> </p>
+<!-- <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Rakshita2003.Rakshita2003"> <img src="https://img.shields.io/github/followers/Rakshita2003?label=Follow&style=social)](https://github.com/Rakshita2003"></p> -->
 
 - 🌱 I’m currently working on **developing my skills**
 
