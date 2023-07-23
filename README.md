@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com](https://github.com/Rakshita2003)
 
-- 💻 Find me on https://rakshita2003.github.io/RakshitaGowda-Portfolio/
+- 💻 Find me on [https://rakshita2003.github.io/RakshitaGowda-Portfolio/](https://rakshita2003.github.io/Portfolio/)
 
 - 📫 How to reach me: **Duh, Just drop a text at rakshitagowda22@gmail.com**
 
